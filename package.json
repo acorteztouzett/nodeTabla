@@ -1,0 +1,15 @@
+{
+  "name": "02-basenode",
+  "version": "1.0.1",
+  "description": "es una tabla de multiplicar :(",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "author": "alonso",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
